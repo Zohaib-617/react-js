@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+body{
+  
+  background-color: #111;
+  display: flex;
+  justify-content: center;
+}
+
+.card{
+  background-color: rgb(238, 65, 65);
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.nav{
+  background-color: blueviolet;
+   border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
