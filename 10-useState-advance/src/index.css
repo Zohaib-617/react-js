@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+body{
+  height: 100%;
+  width: 100%;
+  background-color: #111;
+}
+
+button{
+  padding: 7px;
+  margin: 20px;
+  color: black;
+}
+
+h1{
+  
+  margin: 20px;
+}
